@@ -42,3 +42,11 @@ int main()
     viewPrimes(Array,size+1);
     return 0;
 }
+
+/*************
+Copy the code or 
+clone the repository
+to your IDE.
+Save the file
+compile and run
+*************/
